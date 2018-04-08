@@ -1,0 +1,26 @@
+{
+  "name": "murach-html5-css3",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/mbbo/murach-html5-css3.svg?branch=master)](https://travis-ci.org/mbbo/murach-html5-css3)",
+  "main": "index.js",
+  "dependencies": {
+    "stylelint": "^9.2.0"
+  },
+  "devDependencies": {
+    "stylelint-config-recommended": "^2.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "stylelint": "stylelint '**/*.css'; exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbbo/murach-html5-css3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbbo/murach-html5-css3/issues"
+  },
+  "homepage": "https://github.com/mbbo/murach-html5-css3#readme"
+}
