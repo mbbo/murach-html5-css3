@@ -11,7 +11,7 @@
   },
   "scripts": {
     "stylelint": "stylelint '**/*.css'; exit 0",
-    "pretest": "npm run lint",
+    "pretest": "npm run stylelint",
     "test": "echo \"No tests\""
   },
   "repository": {
