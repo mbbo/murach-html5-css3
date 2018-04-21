@@ -10,8 +10,8 @@
     "stylelint-config-recommended": "^2.1.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "stylelint": "stylelint '**/*.css'; exit 0"
+    "stylelint": "stylelint '**/*.css';",
+    "test": "npm run stylelint"
   },
   "repository": {
     "type": "git",
