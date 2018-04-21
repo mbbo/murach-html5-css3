@@ -8,4 +8,4 @@ The goal of this project is to study the murach book on html5 and css3 and wrap 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
