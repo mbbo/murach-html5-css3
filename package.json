@@ -10,9 +10,9 @@
     "stylelint-config-recommended": "^2.1.0"
   },
   "scripts": {
-    "stylelint": "stylelint '**/*.css'; exit 0"
+    "stylelint": "stylelint '**/*.css';",
+    "test": "echo \"No tests\""
   },
-  "test": "npm run stylelint",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mbbo/murach-html5-css3.git"
