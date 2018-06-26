@@ -6,6 +6,12 @@
 
 The goal of this project is to study the murach book on html5 and css3 and wrap it in a continuous integration and statistical analysis environment.
 
+## Author
+
+* **Mehdi BOISSAT-BRON** - *Initial work* - [mbbo](https://github.com/mbbo)
+
+See also the list of [contributors](https://github.com/mbbo/murach-html5-css3/graphs/contributors) who participated in this project.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
