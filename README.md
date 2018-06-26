@@ -8,7 +8,7 @@ The goal of this project is to study the murach book on html5 and css3 and wrap 
 
 ## Author
 
-* **Mehdi BOISSAT-BRON** - *Initial work* - [mbbo](https://github.com/mbbo)
+* **Mehdi BOISSAT-BRON** - [mbbo](https://github.com/mbbo)
 
 See also the list of [contributors](https://github.com/mbbo/murach-html5-css3/graphs/contributors) who participated in this project.
 
