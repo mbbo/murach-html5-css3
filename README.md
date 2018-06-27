@@ -6,6 +6,14 @@
 
 The goal of this project is to study the murach book on html5 and css3 and wrap it in a continuous integration and statistical analysis environment.
 
+##Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+## Prerequisites
+
+## Installing
+
 ## Author
 
 * **Mehdi BOISSAT-BRON** - [mbbo](https://github.com/mbbo)
