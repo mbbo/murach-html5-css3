@@ -6,8 +6,6 @@
 
 The goal of this project is to study the murach book on html5 and css3 and wrap it in a continuous integration and statistical analysis environment.
 
-## Structure
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
