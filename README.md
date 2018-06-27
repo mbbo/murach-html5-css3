@@ -12,6 +12,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites
 
+You need to have docker install on your system.
+
 ## Installing
 
 ## Author
