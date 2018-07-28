@@ -6,3 +6,5 @@ Before submitting a issue make sure you have checked this list :
   - You explain steps to reproduce the bug
   - You suggest a possible solution
   - You add additionnal context such as logs messages, screenshots
+
+Thank you !  

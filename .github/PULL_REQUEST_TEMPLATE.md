@@ -4,3 +4,5 @@ Before submitting a pull request make sure you have checked this list :
   - You made changes related to only one item
   - You ran the build locally and it passed
   - You will dedicated yourself to following up notification on your pull request
+
+Thank you !  
