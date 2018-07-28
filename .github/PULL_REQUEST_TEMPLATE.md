@@ -1,4 +1,4 @@
-Make sure you have checked this list :
+Before submitting a pull request make sure you have checked this list :
 
   - You made a small amount of changes (less than 100 lines, less than 10 files)
   - You made changes related to only one item

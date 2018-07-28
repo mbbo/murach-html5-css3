@@ -1,4 +1,4 @@
-Make sure you have checked this list :
+Before submitting a issue make sure you have checked this list :
 
   - You have all pre-requisites listed in README.md installed
   - You are sure that you are not reporting a duplicate
