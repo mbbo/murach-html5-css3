@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/mbbo/murach-html5-css3.svg?branch=master)](https://travis-ci.org/mbbo/murach-html5-css3)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./.github/PULL_REQUEST_TEMPLATE.md)
 
 # Murach Html5 Css3
 
