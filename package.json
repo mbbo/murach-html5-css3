@@ -4,7 +4,7 @@
   "description": "[![Build Status](https://travis-ci.org/mbbo/murach-html5-css3.svg?branch=master)](https://travis-ci.org/mbbo/murach-html5-css3)",
   "main": "index.js",
   "dependencies": {
-    "stylelint": "^9.2.0"
+    "stylelint": "^9.10.1"
   },
   "devDependencies": {
     "stylelint-config-recommended": "^2.1.0"
