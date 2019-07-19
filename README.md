@@ -1,33 +1,39 @@
-[![Build Status](https://travis-ci.org/mbbo/chtemele.svg?branch=master)](https://travis-ci.org/mbbo/chtemele)
+[![Build Status](https://travis-ci.org/mbbo/katalinter.svg?branch=master)](https://travis-ci.org/mbbo/katalinter)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./.github/PULL_REQUEST_TEMPLATE.md)
 
-# Murach Html5 Css3
+# Katalinter
 
-The goal of this project is to study the murach book on html5 and css3 and wrap it in a continuous integration and statistical analysis environment.
+The goal of this project is to use the librairie stylelint in a real HTML/CSS context and wrap it in a continuous integration environment.
 
  - [Getting Started](#gs)
  - [Prerequisites](#prerequisites)
  - [Installing](#installing)
- - [Author](#author)
- - [License](#license)
+ - [How to use it](#howToUseIt)
 
 ## <a name="gs"></a> Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-## <a name="prerequisites"></a> Prerequisites
+### <a name="prerequisites"></a> Prerequisites
 
-You need to have docker install on your system.
+You need to have npm install on your system.
 
-## <a name="installing"></a> Installing
+### <a name="installing"></a> Installing
 
-## <a name="author"></a> Author
+To install the project, simply execute these commands.
+```
+git clone git@github.com:mbbo/katalinter.git
+cd katalinter
+npm i
+```
 
-* **Mehdi BOISSAT-BRON** - [mbbo](https://github.com/mbbo)
+### <a name="howToUseIt"></a> How to use it
 
-See also the list of [contributors](https://github.com/mbbo/murach-html5-css3/graphs/contributors) who participated in this project.
+To use this project you can break a rule describe in the stylintrc file and run this command.
 
-## <a name="license"></a> License
+```
+npm run test
+```
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+It should display an error.
